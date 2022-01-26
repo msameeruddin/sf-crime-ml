@@ -1,2 +1,3 @@
-# sf-crime-ml
-San Francisco Crime Classification
+# San Francisco Crime Classification
+
+An end-to-end Machine Learning case study.
