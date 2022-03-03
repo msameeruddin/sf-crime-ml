@@ -17,3 +17,7 @@ An end-to-end Machine Learning case study.
 
 * Hashnode → https://msameeruddin.hashnode.dev/san-francisco-crime-classification
 * Medium → https://medium.com/mlearning-ai/san-francisco-crime-classification-ffa2cd02a1bf
+
+### YouTube
+
+* Entire Playlist → https://www.youtube.com/playlist?list=PLKVZrYTOvjvUsVpd_uUE3_DmM_tHEZVWz
